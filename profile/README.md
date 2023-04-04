@@ -2,7 +2,7 @@
 SigScale is an open source company focused on software solutions for communications service providers (CSP). Our RTU license free solutions are backed by commercial subscription support services.
 
 ## Solutions
-Our solutions are used by CSPs and vendors for key network functions in service delivery and revenue management.
+Our software solutions are used in service provider networks for critical functions in service delivery and revenue management. Built for resilience with distribution across lightweight nodes, our solutions scale from private enterprise to national.
 
 ### SigScale OCS
 An *Online Charging System* (OCS) performs real-time rating and charging of service usage and prepay balance management. The [ocs](https://github.com/sigscale/ocs) project provides the 3GPP OCS function as well as PCRF (*Policy and Charging Rules Function*) and *3GPP AAA Server* function for *non-3GPP* access authentication.
