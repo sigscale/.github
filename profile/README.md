@@ -1,5 +1,3 @@
-# SigScale Global Inc.
-
 SigScale is an open source company focused on software solutions for communications service providers (CSP).
 
 ## SigScale OCS
