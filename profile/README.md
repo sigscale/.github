@@ -1,5 +1,5 @@
 ## About
-SigScale is an open source company focused on software solutions for communications service providers (CSP). Our RTU license free solutions are backed by commercial subscription support services.
+[SigScale](http://www.sigscale.com) is an open source company developing software solutions for communications service providers (CSP). Our RTU license free solutions are backed by commercial subscription support services.
 
 ## Solutions
 Our software solutions are used in service provider networks for critical functions in service delivery and revenue management. Built for resilience with distribution across lightweight nodes, our solutions scale from private enterprise to national.
